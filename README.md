@@ -1,2 +1,2 @@
 # forecasting-intevriew
-For this repository, I had an interview where I had to build a forecasting model for three products and compare evaluate the performance for forecasting the last three months.
+For this repository, I had an interview where I had to build a forecasting model for three products and compare evaluate the performance for forecasting the last three months. I performed multiple forecasting models, as well as more qualitative analysis of the trends using seasonal decomposition. The models perform exceptionally well, especially after hyper-parameter tuning.
